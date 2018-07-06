@@ -22,12 +22,12 @@ The Unity project and its scripts can be found in `</Code>`. The comments and th
 
 ## The Team
 
-* Nathan Bonnard (@meakitfed)
-* Alban Descottes (@albandescottes)
-* Morgan Feutre (@drakyll)
-* Alexandre Kirillov (@)
-* Oummar Mayaki (@hakkerchief)
-* Hien Minh Nguyen (@minh-n)
+* Nathan Bonnard ([@meakitfed](https://github.com/meakitfed))
+* Alban Descottes ([@albandescottes](https://github.com/albandescottes))
+* Morgan Feutre ([@drakyll](https://github.com/drakyll))
+* Alexandre Kirillov ([@](https://github.com/))
+* Oummar Mayaki ([@hakkerchief](https://github.com/hakkerchief))
+* Hien Minh Nguyen ([@minh-n](https://github.com/minh-n))
 
 ## Credits
 
