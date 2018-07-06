@@ -18,7 +18,7 @@ But the main focus has been on project management: we spent a semester planning 
 
 A [complete report](https://github.com/minh-n/MiragesJourney/blob/master/Compte-rendu_Final.pdf) is available in French, detailing the processes, the difficulties we encoutered and our thoughts on this project.
 
-The Unity project and its scripts can be found in `</Code>`. The comments and the script organisation should help reading it, but the whole code structure only makes sense when used in Unity. 
+The Unity project and its scripts can be found in `/Code`. The comments and the script organisation should help reading it, but the whole code structure only makes sense when used in Unity. 
 
 ## The Team
 
