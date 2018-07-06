@@ -11,11 +11,11 @@ The game consists at the moment of only one level, with several quests and story
 
 ## Motivation
 
-This game is the result of a year-long project involving a team of 6 people. It has allowed us to tackle various fields of Computer Science, such as web and databases, C# and Unity game development and even user interfaces. The project has definitely 
+This game is the result of a year-long project involving a team of 6 people. It has allowed us to tackle various fields of Computer Science, such as web and databases, C# and Unity game development and even user interfaces. The project has definitely taught us a lot of knowledge we would not be able to acquire in traditional classes.
 
 But the main focus has been on project management. We have gained a lot about efficiency and organisational skills and learned how to successfully complete a project in time. Although we have deviated a lot from the original (and a bit unrealistic) objectives, we have created a game not that far from our expectations. 
 
-A [complete report](https://github.com/minh-n/MiragesJourney/blob/master/Compte-rendu_Final.pdf) is available in French.
+A [complete report](https://github.com/minh-n/MiragesJourney/blob/master/Compte-rendu_Final.pdf) is available in French, detailing the processes, the difficulties and our thoughts on this project.
 
 ## Credits
 
