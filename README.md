@@ -27,9 +27,12 @@ The Unity project and its scripts can be found in `</Code>`. The comments and th
 * The Unity team, their software and documentation
 * And last but not least, Mr. Aurélien MAX, the technical supervisor for our project.
 
-
+  
+<div style="text-align:center" width="50px"><img src ="https://github.com/minh-n/MiragesJourney/blob/master/Art-Visual-UI/miragelogo.png" /></div>
+    
 >It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world.
->To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known.
+>To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known.  
+
 -- Carl Sagan 
 
-<div style="text-align:center" width="50px"><img src ="https://github.com/minh-n/MiragesJourney/blob/master/Art-Visual-UI/miragelogo.png" /></div>
+
