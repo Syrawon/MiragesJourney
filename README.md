@@ -25,7 +25,7 @@ The Unity project and its scripts can be found in `/Code`. The comments and the 
 * Nathan Bonnard ([@meakitfed](https://github.com/meakitfed))
 * Alban Descottes ([@albandescottes](https://github.com/albandescottes))
 * Morgan Feutre ([@drakyll](https://github.com/drakyll))
-* Alexandre Kirillov ([@](https://github.com/))
+* Alexandre Kirillov ([@sachakir](https://github.com/sachakir))
 * Oummar Mayaki ([@hakkerchief](https://github.com/hakkerchief))
 * Hien Minh Nguyen ([@minh-n](https://github.com/minh-n))
 
