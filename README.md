@@ -1,6 +1,6 @@
 # Mirage's Journey
 
-Mirage's Journey is a 2.5D adventure game involving a dog and his astronaut friend, developped by 4th year students in the Computer Science Engineering cursus at Polytech Paris-Sud. The game is available for download [here](http://hebergement.u-psud.fr/mirage/).
+Mirage's Journey is a 2.5D adventure game involving a dog and his astronaut friend, developped by 4th year students in the Computer Science Engineering cursus at Polytech Paris-Sud. The game is available for download [here](https://github.com/minh-n/MiragesJourney/blob/master/ExportMirage.zip).
 
 ## The game
 
